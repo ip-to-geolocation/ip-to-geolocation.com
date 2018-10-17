@@ -4,7 +4,7 @@ Easy to use PHP Class implementing a service to obtain detailed Geolocation from
 
 Download the PHP Class and copy the file into your project directory
 
-Get your Free API Key by following this link: https://ip-to-geolocation/ip-geolocation-api-register-0.html
+Get your Free API Key by following this link: https://ip-to-geolocation.com/ip-geolocation-api-register-0.html
 
 Use the following exemple of code to obtain Geolocation from IP addresses:
 
