@@ -8,6 +8,7 @@ Get your Free API Key by following this link: https://ip-to-geolocation/ip-geolo
 
 Use the following exemple of code to obtain Geolocation from IP addresses:
 
+```
 <?php 
 include 'MasterClass_ip-to-geolocation.com-v1.0.php';
 
@@ -36,3 +37,4 @@ foreach($ip2locationapiArray2 as $k=>$v){
 }
 echo '</table>';
 ?>
+```
