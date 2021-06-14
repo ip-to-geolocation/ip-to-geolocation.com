@@ -1,4 +1,4 @@
-# ip-to-geolocation.com
+# ip-get-geolocation.com
 
 Easy to use PHP Class implementing a service to obtain detailed Geolocation from IP addresses IPv4 or IPv6
 
